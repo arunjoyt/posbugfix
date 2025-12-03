@@ -1,3 +1,10 @@
+Update on 03-Dec-2025: 
+
+This is fixed in ERPNext v15.91.0 via https://github.com/frappe/erpnext/pull/50558
+
+So the workaround done in this app by overiding a whitelisted method is no longer needed.
+
+Earlier: 
 ### POSBugFix
 
 Contains bugs fixes for EPRNext POS
